@@ -25,5 +25,5 @@ library(IranCovid)
 IranCovid::CovidWorldMap(10,20,2020,"Confirmed Cases")
 ```
 and here is your figure:
-![confirmed cases world map]("")
+![confirmed cases world map]("https://github.com/pariyamd/IranCovid/blob/master/confirmed.png")
 
