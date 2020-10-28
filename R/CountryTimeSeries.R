@@ -4,7 +4,7 @@
 #' @param end end of the period with the format of "%m-%d-%Y"
 #' @param country
 #' @return plots a figure of covid cases in a period of time in the determied country
-
+library(lubridate)
 library(dplyr)
 CountryTimeSeries<-function(from="04-20-2020",to="10-28-2020",country="Iran"){
 
