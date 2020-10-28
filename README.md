@@ -1,6 +1,8 @@
 
 # IranCovid <img src='man/figures/logo.png' align="right" height="139" />
 <!-- badges: start -->
+[![CRAN status](https://www.r-pkg.org/badges/version/IranCovid)](https://CRAN.R-project.org/package=IranCovid)
+[![Lifecycle: stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 <!-- badges: end -->
 
 The goal of IranCovid is to fetch Covid-19 data from [Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19) Covid-19 Data repository and cleans the data.
