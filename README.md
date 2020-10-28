@@ -24,6 +24,7 @@ library(IranCovid)
 ## basic example code
 IranCovid::CovidWorldMap(10,20,2020,"Confirmed Cases")
 ```
-and here is your figure:
+and here is your world map figure:
+
 ![confirmed cases world map]("https://github.com/pariyamd/IranCovid/blob/master/confirmed.png")
 
