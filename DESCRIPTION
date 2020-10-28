@@ -13,3 +13,5 @@ Suggests:
     testthat
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+URL: https://github.com/pariyamd/IranCovid
+BugReports: https://github.com/pariyamd/IranCovid/issues
