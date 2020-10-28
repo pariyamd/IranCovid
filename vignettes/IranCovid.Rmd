@@ -1,0 +1,19 @@
+---
+title: "Covid-19 Cases Clean Data and Figures"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Covid-19 Cases Clean Data and Figures}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(IranCovid)
+```

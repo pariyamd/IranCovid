@@ -5,8 +5,7 @@
 #' @return a clean dataframe computed from John Hopkins dataset
 
 library(dplyr)
-library(dplyr)
-library(tidyverse)
+library(tidyr)
 library(stringr)
 library(lubridate)
 
